@@ -1,5 +1,11 @@
 # Instances where using LLMs have been incredibly helpful
 
+3 primary use cases:
+
+1. Ghost text/tab completion
+2. Rubber-ducking
+3. Agentic workflows for implementing simple changes
+
 ## Table of contents
 
 - [Explaining well-documented topics](#explaining-well-documented-topics)
