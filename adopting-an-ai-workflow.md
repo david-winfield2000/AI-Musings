@@ -19,7 +19,7 @@ Option 1:
 
 Option 2:
 
-- Windsurf/Github copilot
+- Github copilot
   - [ ] Ghost text/tab complete
 - Claude code
   - [ ] Tool to assist with small refactors
