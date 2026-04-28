@@ -1,8 +1,8 @@
 # Industry trends
 
-## Which way the wind is blowing
+## Which direction the wind is blowing
 
-People are using AI tools more and more frequently
+People are using AI tools more frequently
 
 The metrics used to evaluate model performance are complete nonsense "trust me bro" benchmarks
 
@@ -14,8 +14,6 @@ It's all going to add up
 
 Companies are already starting to see how much money AI tools lose them in the longrun
 
-It's not profitable
-
 The venture capitalist money is going to run out eventually and the providers of these models will have to make ends meet somehow
 
 Prices are going up already, and the quality of the product is going down
@@ -26,7 +24,7 @@ Prices are going up already, and the quality of the product is going down
 
 People strongly leaning into these AI tools are getting addicted to using them
 
-They're forgetting how to use their brains as a result
+As a result, they're forgetting how to use their brains
 
 They're addicted to it, trying to write prompts good enough to do their job for them
 
@@ -40,9 +38,8 @@ And it's not going to be AI!
 
 ## How to stay ahead
 
-Don't listen to the hype
+Don't listen to the hype.
 
 Answer the question: "6 months from now, will I care about how this was made?"
 
-- If so, don't vibe code
-- If not, vibe code, I guess
+If so, don't vibe code
